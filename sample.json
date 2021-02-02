@@ -1,0 +1,19 @@
+{
+    "playbackSetting": {
+        "loop": false,
+        "shuffle": false
+    },
+    "playbackInfo": {
+        "playOrder": [
+            0,
+            1
+        ],
+        "index": 0,
+        "offsetInMilliseconds": 5792,
+        "playbackIndexChanged": false,
+        "token": "0",
+        "nextStreamEnqueued": true,
+        "inPlaybackSession": true,
+        "hasPreviousPlaybackSession": true
+    }
+}
